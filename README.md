@@ -1,5 +1,5 @@
 ## Hi there 👋
-![oscillart time](https://hackatime-badge.hackclub.com/U08234L2CAZ/oscillart)
+![oscillart time](https://hackatime-badge.hackclub.com/U08234L2CAZ/oscillart)  
 ![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1203&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--
