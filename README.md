@@ -1,7 +1,6 @@
 ## Hi there I'm Jocelyn =)
 ![oscillart time](https://hackatime-badge.hackclub.com/U08234L2CAZ/oscillart)  
-![hackatime stats]([https://github-readme-stats.hackclub.dev/api/wakatime?username=1203&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8](https://github-readme-stats.hackclub.dev/api/wakatime?username=1203&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=solarized-light
-))
+![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1203&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=solarized-light)
 
 <!--
 **penguinissus/penguinissus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
